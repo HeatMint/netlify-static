@@ -1,2 +1,2 @@
 /gomoku/introduction.html
-  X-Frame-Options: allow-from https://gomoku.heatmint.com/
+  X-Frame-Options: allow-from SAMEORIGIN
